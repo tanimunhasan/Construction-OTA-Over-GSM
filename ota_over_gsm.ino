@@ -3,9 +3,9 @@
 // Increase RX buffer
 #define TINY_GSM_RX_BUFFER 1030
 
-const char apn[] = "omnitel";
-const char user[] = "omni";
-const char pass[] = "omni";
+const char apn[] = "gpinternet";
+const char user[] = " ";
+const char pass[] = " ";
 
 
 
